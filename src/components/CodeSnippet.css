@@ -1,0 +1,25 @@
+.code-snippet {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+}
+/* Button styles */
+.button {
+    background-color: #4CAF50; /* Green background */
+    border: none; /* Remove border */
+    color: white; /* White text */
+    padding: 10px 20px; /* Padding */
+    text-align: center; /* Center text */
+    text-decoration: none; /* Remove underline */
+    display: inline-block; /* Make it inline */
+    font-size: 16px; /* Font size */
+    cursor: pointer; /* Add cursor pointer */
+    border-radius: 5px; /* Rounded corners */
+}
+
+/* Hover effect */
+.button:hover {
+    background-color: #45a049; /* Darker green background on hover */
+}
